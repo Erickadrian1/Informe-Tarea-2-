@@ -56,9 +56,20 @@ Generales:
 ![17](https://user-images.githubusercontent.com/85208164/121940663-f6958980-cd13-11eb-84bd-17ae38fa343b.png)
 ![18](https://user-images.githubusercontent.com/85208164/121940665-f6958980-cd13-11eb-9431-09f317574b57.png)
 ![19](https://user-images.githubusercontent.com/85208164/121940667-f72e2000-cd13-11eb-9de6-61a058081ac7.png)
+![20](https://user-images.githubusercontent.com/85208164/121976880-59097c80-cd4a-11eb-9b15-8c4cb128861d.png)
 
 
 - Ejercicios Capitulo 4
+
+![21](https://user-images.githubusercontent.com/85208164/121976919-69215c00-cd4a-11eb-935e-2edd06c78b68.png)
+![22](https://user-images.githubusercontent.com/85208164/121976920-69b9f280-cd4a-11eb-884c-232b91e846af.png)
+![23](https://user-images.githubusercontent.com/85208164/121976912-67579880-cd4a-11eb-9ccd-16495a7937a1.png)
+![24](https://user-images.githubusercontent.com/85208164/121976913-67f02f00-cd4a-11eb-94d3-6b203cd0e034.png)
+![25](https://user-images.githubusercontent.com/85208164/121976914-6888c580-cd4a-11eb-90cd-724d69b550b2.png)
+![26](https://user-images.githubusercontent.com/85208164/121976916-6888c580-cd4a-11eb-935b-0c966654533f.png)
+![27](https://user-images.githubusercontent.com/85208164/121976917-6888c580-cd4a-11eb-9870-188f50a424f8.png)
+![28](https://user-images.githubusercontent.com/85208164/121976918-69215c00-cd4a-11eb-87ba-38b786622733.png)
+
 
 
 
