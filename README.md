@@ -41,18 +41,19 @@
 
 •	Identificar los tipos de resistencia que existe a la hora de resolver un circuito mediante una correcta lectura de sus gráficas.
 
-**2. Marco Teorico (Resumen)**
-- Capitulo 3
+## 2. Marco Teorico (Resumen)
+
+### Capitulo 3
 
 ![RESISTENCIA](https://user-images.githubusercontent.com/85208164/121938443-740bca80-cd11-11eb-8ed4-81fee598407f.png)
 
 
--  Capitulo 4
+### Capitulo 4
 
 
-**3. Explicación y Resolución de ejercicios o problemas**
+## 3. Explicación y Resolución de ejercicios o problemas**
 
-- Ejercicios Capitulo 3
+### Ejercicios Capitulo 3
 
 ![1](https://user-images.githubusercontent.com/85208164/121940637-f3020280-cd13-11eb-8acf-650ac885ac53.png)
 ![2](https://user-images.githubusercontent.com/85208164/121940638-f3020280-cd13-11eb-85be-d1083e7e6ebf.png)
@@ -76,7 +77,7 @@
 ![20](https://user-images.githubusercontent.com/85208164/121976880-59097c80-cd4a-11eb-9b15-8c4cb128861d.png)
 
 
-- Ejercicios Capitulo 4
+### Ejercicios Capitulo 4
 
 ![21](https://user-images.githubusercontent.com/85208164/121976919-69215c00-cd4a-11eb-935e-2edd06c78b68.png)
 ![22](https://user-images.githubusercontent.com/85208164/121976920-69b9f280-cd4a-11eb-884c-232b91e846af.png)
@@ -90,12 +91,27 @@
 
 
 
-**4. Video**
+## 4. Video
 
 
-**5. Conclusiones**
+## 5. Conclusiones
+•	Concluimos que la resistencia es un factor importante al momento de realizar cálculos electrónicos ya que está presente en todos los circuitos y debemos saber la manera correcta de calcularlo
 
-**6. Bibliografia**
+•	Aprendimos que existen varias unidades de electrónica a la hora de realizar cálculos y por esto debemos saber convertirlas de una manera correcta para llegar a un resultado más apropiado.
+
+•	Vimos la importancia que tiene el código de colores en resistores pequeños ya que con esto podemos saber cuál es el valor de la resistencia, la tolerancia y en algunos casos la confiabilidad que estos tiene de una manera más fácil.
+
+•	Concluimos la importancia que tiene el saber realizar de manera correcta el cálculo de la conductancia de un material ya que así podemos saber la habilidad que tiene un material para permitir el flujo de carga 
+
+•	 Conocimos las facilidades que nos da el saber calcular de manera correcta la resistencia, voltaje y corriente mediante la ley de ohm y así conocer los valores de un circuito resistivo.
+
+•	Al realizar varios ejercicios nos dimos cuenta que entre más altos sean los watts en un dispositivo se puede obtener más energía de él por unidad tiempo de igual manera vimos que tiene una estrecha relación con la energía que es la capacidad para realizar trabajo. 
+
+•	Aprendimos que si un dispositivo tiene una mala eficiencia nos da como resultado un desperdicio de energía y con esto tendremos costos más altos. 
+
+•	Aprendimos que existen dos tipos de resistencias que son las lineales y las dinámicas, y las podemos identificar mediante la lectura de graficas u observando sus valores, pero también aprendimos que en algún punto todas las resistencias se vuelven no lineales debido a la temperatura.
+
+## 6. Bibliografia
 
 - Vizcaíno, J. R. L., & Sebastiá, J. P. (2011). LabView: entorno gráfico de programación. Marcombo.
 
