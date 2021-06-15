@@ -50,6 +50,8 @@
 
 ### Capitulo 4
 
+![teoria 2 cap 4](https://user-images.githubusercontent.com/85526684/121978744-780a0d80-cd4e-11eb-9cf6-3afe1e91a0e7.jpeg)
+
 
 ## 3. Explicación y Resolución de ejercicios o problemas
 
@@ -87,13 +89,11 @@
 ![26](https://user-images.githubusercontent.com/85208164/121976916-6888c580-cd4a-11eb-935b-0c966654533f.png)
 ![27](https://user-images.githubusercontent.com/85208164/121976917-6888c580-cd4a-11eb-9870-188f50a424f8.png)
 ![28](https://user-images.githubusercontent.com/85208164/121976918-69215c00-cd4a-11eb-87ba-38b786622733.png)
-
-
-
+![image](https://user-images.githubusercontent.com/85526684/121979958-ba344e80-cd50-11eb-8534-9557f002e532.png) ![image](https://user-images.githubusercontent.com/85526684/121980156-18613180-cd51-11eb-96b1-b3648e510537.png)
+![image](https://user-images.githubusercontent.com/85526684/121980524-b0f7b180-cd51-11eb-80bf-c670d4ed200f.png) ![image](https://user-images.githubusercontent.com/85526684/121980533-b7862900-cd51-11eb-8a5c-05d63fa0a9e5.png)
+![image](https://user-images.githubusercontent.com/85526684/121982301-e225b100-cd54-11eb-803a-d11b6339630b.png)
 
 ## 4. Video
-
-https://www.youtube.com/watch?v=iF1WOuUElds
 
 
 ## 5. Conclusiones
