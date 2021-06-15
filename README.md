@@ -51,7 +51,7 @@
 ### Capitulo 4
 
 
-## 3. Explicación y Resolución de ejercicios o problemas**
+## 3. Explicación y Resolución de ejercicios o problemas
 
 ### Ejercicios Capitulo 3
 
