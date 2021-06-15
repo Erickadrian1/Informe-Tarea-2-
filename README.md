@@ -93,6 +93,8 @@
 
 ## 4. Video
 
+https://www.youtube.com/watch?v=iF1WOuUElds
+
 
 ## 5. Conclusiones
 •	Concluimos que la resistencia es un factor importante al momento de realizar cálculos electrónicos ya que está presente en todos los circuitos y debemos saber la manera correcta de calcularlo
